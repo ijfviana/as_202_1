@@ -1,0 +1,125 @@
+[
+
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-background": "img/covert.png",
+            "class": "home",
+            "data-state": "homepage"
+        }
+    },
+    {
+        "filename": "outline.md",
+        "attr": {}
+    },
+    [
+    	{
+        	"filename": "introduction.md",
+        	"attr": {
+        		"data-state": "big-title",
+            	"data-transition":"zoom"
+            	}
+        },
+        {
+        	"filename": "introduction_contents.md",
+        	"attr": {
+	            "data-separator": "^\n\n\n",
+	            "data-vertical": "^\n\n"
+	        }
+        }
+    ],
+    [
+	    {
+	        "filename": "runlevels.md",
+	        "attr": {
+	            "data-state": "big-title",
+	            "data-transition":"zoom"
+	        }
+	    },
+	    {
+	        "filename": "runlevels_contents.md",
+	        "attr": {
+	            "data-separator": "^\n\n\n",
+	            "data-vertical": "^\n\n"
+	        }
+	    }
+    ],
+
+
+    [
+	    {
+	        "filename": "sysv.md",
+	        "attr": {
+	            "data-state": "big-title",
+	            "data-transition":"zoom"
+	        }
+	    },
+	    {
+	        "filename": "sysv_contents.md",
+	        "attr": {
+	            "data-separator": "^\n\n\n",
+	            "data-vertical": "^\n\n"
+	        }
+	    }
+    ],
+
+    [
+	    {
+	        "filename": "upstart.md",
+	        "attr": {
+	            "data-state": "big-title",
+	            "data-transition":"zoom"
+	        }
+	    },
+	    {
+	        "filename": "upstart_contents.md",
+	        "attr": {
+	            "data-separator": "^\n\n\n",
+	            "data-vertical": "^\n\n"
+	        }
+	    }
+
+    ],
+
+
+    [
+      {
+          "filename": "runlevels_maintenance.md",
+          "attr": {
+              "data-state": "big-title",
+              "data-transition":"zoom"
+          }
+      },
+      {
+          "filename": "runlevels_maintenance_contents.md",
+          "attr": {
+              "data-separator": "^\n\n\n",
+              "data-vertical": "^\n\n"
+          }
+      }
+
+    ],
+
+
+   {
+        "filename": "bibliography.md",
+        "attr": {
+            "data-state":"biblio",
+            "class":"alternatelight",
+           "data-separator": "^\n\n\n",
+            "data-vertical": "^\n\n"
+
+        }
+    },
+
+    {
+        "filename": "end.md",
+        "attr": {
+            "data-state":"thanks",
+            "class":"alternatelight",
+           "data-separator": "^\n\n\n",
+            "data-vertical": "^\n\n"
+
+        }
+    }
+]
